@@ -13,9 +13,9 @@ class FormSignIn extends StatelessWidget {
   }) : super(key: key) {
     controller.formKey = controller.formKey ?? GlobalKey<FormState>();
     controller.emailController = controller.emailController ??
-        TextEditingController(text: 'julio.rennann@gmail.com');
+        TextEditingController();
     controller.passwordController =
-        controller.passwordController ?? TextEditingController(text: '1234567');
+        controller.passwordController ?? TextEditingController();
   }
 
   @override
