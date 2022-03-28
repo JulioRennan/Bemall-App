@@ -1,4 +1,4 @@
-#Sun Mar 27 19:50:40 AMT 2022
-base.0=/Users/juliorennann/Documents/dev/bemall/bemall_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Mar 28 09:59:54 AMT 2022
+base.0=/Users/juliorennann/Documents/dev/Bemall-App/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

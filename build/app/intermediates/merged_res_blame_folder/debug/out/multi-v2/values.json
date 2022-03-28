@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/juliorennann/Documents/dev/bemall/bemall_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/juliorennann/Documents/dev/Bemall-App/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/juliorennann/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/res/values/values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/juliorennann/Documents/dev/bemall/bemall_app/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/juliorennann/Documents/dev/Bemall-App/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

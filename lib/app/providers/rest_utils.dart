@@ -1,3 +1,4 @@
+import 'package:bemall_app/app/constants.dart';
 import 'package:dio/dio.dart';
 import 'package:get/get.dart';
 
@@ -5,7 +6,7 @@ import '../app_controller.dart';
 import '../modules/shared_components/snackBars/render_error_snackbar.dart';
 
 abstract class RestUtils extends Interceptor {
-  static String baseUrl = "http://192.168.15.102:3210";
+  static String baseUrl = Contants.baseUrl;
 
   static String errorNetwork = "network connection error";
   static String errorSever = "server connection error";

@@ -69,7 +69,7 @@ flutter:
   assets:
      - assets/images/
   fonts:
-     - family: Montserrat
-       fonts:
-          asset: /assets/fonts/Montserrat-Regular.ttf
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
  
