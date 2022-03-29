@@ -10,7 +10,6 @@ class App extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    print(appController.getInitialRoute);
     return GetMaterialApp(
       theme: AppTheme().defaultTheme,
       debugShowCheckedModeBanner: false,

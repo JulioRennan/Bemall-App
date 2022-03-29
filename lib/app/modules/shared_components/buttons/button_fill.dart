@@ -45,9 +45,7 @@ class ButtonFill extends StatelessWidget {
 
                   try {
                     await onTap();
-                  } catch (e, stack) {
-                    print(stack);
-                  }
+                  } catch (e, _) {}
 
                   isLoading.value = false;
                 },

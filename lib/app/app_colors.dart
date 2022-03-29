@@ -1,27 +1,27 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
-  Color backgroundSuccess = Color(0xffD0E1C1);
-  Color backgroundCard = Color(0xffEAEAEA);
-  Color textSuccess = Color(0xff2E7D32);
-  Color textOnDelivery = Color(0xffD84315);
-  Color textCancelled = Color(0xffC50E29);
+  Color backgroundSuccess = const Color(0xffD0E1C1);
+  Color backgroundCard = const Color(0xffEAEAEA);
+  Color textSuccess = const Color(0xff2E7D32);
+  Color textOnDelivery = const Color(0xffD84315);
+  Color textCancelled = const Color(0xffC50E29);
 
-  Color textDark = Color(0xFF303134);
-  Color textLight = Color(0xffFFFFFF);
+  Color textDark = const Color(0xFF303134);
+  Color textLight = const Color(0xffFFFFFF);
   // Color pallete
-  Color primaryColor = Color(0xFF2C2A4A);
-  Color secondaryColor = Color(0xFFD7103C);
+  Color primaryColor = const Color(0xFF2C2A4A);
+  Color secondaryColor = const Color(0xFFD7103C);
 
-  Color tertiaryColor = Color(0xFF5C3D31);
-  Color darkPrimaryColor = Color(0xE6000000);
-  Color darkSecondaryColor = Color(0xFFB7B7B7);
-  Color lightColor = Color(0xFFFFFFFF);
+  Color tertiaryColor = const Color(0xFF5C3D31);
+  Color darkPrimaryColor = const Color(0xE6000000);
+  Color darkSecondaryColor = const Color(0xFFB7B7B7);
+  Color lightColor = const Color(0xFFFFFFFF);
 
-  Color successPrimaryColor = Color(0xFF40BB40);
-  Color successSecondaryColor = Color(0xFF7cdc7c);
-  Color errorPrimaryColor = Color(0xFFD63636);
-  Color errorSecondaryColor = Color(0xFFDC7D7D);
+  Color successPrimaryColor = const Color(0xFF40BB40);
+  Color successSecondaryColor = const Color(0xFF7cdc7c);
+  Color errorPrimaryColor = const Color(0xFFD63636);
+  Color errorSecondaryColor = const Color(0xFFDC7D7D);
   //Colors components
   //Bottom navigation
   late Color unselectedColor;
