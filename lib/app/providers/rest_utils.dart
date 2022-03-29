@@ -1,4 +1,4 @@
-import 'package:bemall_app/app/constants.dart';
+import 'package:bemall_app/constants.dart';
 import 'package:dio/dio.dart';
 import 'package:get/get.dart';
 
